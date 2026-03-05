@@ -6,7 +6,7 @@
 ### 🛠 Tech Stack
 - **Frontend:** `React`, `Tailwind CSS` (Deployed on **Netlify**)
 - **Backend:** `Java`, `Spring Boot`, `Spring Security (JWT)` (Deployed on **Cloudtype**)
-- **Database:** `PosgreSQL` (Cloudtype Managed DB)
+- **Database:** `PostgreSQL` (Cloudtype Managed DB)
 - **AI:** `Google Gemini API`
 
 **[Key Features]**
